@@ -20,7 +20,7 @@ I'm a Machine Learning and Full Stack Developer with a strong foundation in comp
 
 ### 📫 How to Reach Me
 - **Email:** hemchandra2003@gmail.com
-- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/hemchandrajoshi)
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/hem-chandra-joshi-b6744523b/)
 - **GitHub:** [github.com/Hem2003](https://github.com/Hem2003)
 
 ### ⚡ Fun Fact
